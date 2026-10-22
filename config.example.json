@@ -1,0 +1,11 @@
+{
+  "base": "USD",
+  "rules": [
+    {"symbol": "EUR", "above": 0.80},
+    {"symbol": "GBP", "below": 0.70},
+    {"symbol": "JPY", "above": 140}
+  ],
+  "webhook_url": "",
+  "history_csv": "output/history.csv",
+  "interval_minutes": 60
+}
