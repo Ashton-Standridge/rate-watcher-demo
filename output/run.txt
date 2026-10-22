@@ -1,0 +1,5 @@
+[dry run] would POST:
+Rate alert (USD base):
+- EUR is 0.89246 (above 0.8)
+- JPY is 157.05 (above 140)
+2026-10-22 14:57 rates={'EUR': 0.89246, 'GBP': 0.74761, 'JPY': 157.05} alerts=2 webhook=dry run
