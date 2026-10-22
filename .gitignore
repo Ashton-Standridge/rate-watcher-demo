@@ -3,3 +3,11 @@ __pycache__/
 .venv/
 *.pyc
 output/history.csv
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+*.egg-info/
+build/
+dist/
